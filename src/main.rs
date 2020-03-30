@@ -4,7 +4,11 @@ use std::io::{self, prelude::*, BufReader, Read};
 fn main() -> io::Result<()>{
     
     // Init CPU
+    // Init Memory Space
     // Init PPU
+    // Init APU
+    // Init Controller
+    // Init Cartridge Boards/Mappers
 
     let mut rom_path = String::new();
     
